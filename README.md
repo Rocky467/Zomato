@@ -1,3 +1,3 @@
 # Zomato
 
-This app currently being devoloped
+This app currently is being devoloped
